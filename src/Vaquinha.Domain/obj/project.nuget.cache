@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYtnw4hlQ9XcComa0vFQvXubjzVnzCplPG5s+8zOJJ7FSVF4WQrM/UZo8pLTxyMwWba/KXOudwjojZocPclJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\ws-csharp\\dio-stack-de-testes-de-unidade-crowdfunding-dotnet\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
